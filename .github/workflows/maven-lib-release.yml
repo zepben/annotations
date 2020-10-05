@@ -85,7 +85,6 @@ jobs:
         with:
           tag_name: ${{ steps.merge.outputs.tag }}
           release_name: ${{ steps.merge.outputs.tag }}
-          body_path: docs/release.md
           draft: false
           prerelease: false
 
