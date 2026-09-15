@@ -9,7 +9,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.zepben</groupId>
     <artifactId>annotations</artifactId>
-    <version>1.4.0-SNAPSHOT2</version>
+    <version>1.4.0b2</version>
 
     <name>${project.groupId}:${project.artifactId}</name>
 
